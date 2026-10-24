@@ -137,4 +137,4 @@ Open `DataScience_Task1_EDA.ipynb` and run the cells from top to bottom. Keep `s
 
 **Ateeb Mustapha**
 Data Science Intern - Devixo Solutions
-GitHub: [add your profile link here]
+GitHub: https://github.com/ate-eb
