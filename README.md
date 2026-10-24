@@ -18,7 +18,7 @@ The goal is to find out what drives revenue, which categories, regions and sales
 
 ## Dataset Information
 
-- **Source:** Kaggle - [add dataset link here]
+- **Source:** Kaggle - [[add dataset link here]](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)
 - **File:** `sales_data.csv`
 - **Size:** 1,000 records x 14 columns
 - **Period covered:** January 2023 to early January 2024
